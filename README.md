@@ -4,4 +4,4 @@ This paper proposes a new family of attention hybrid networks that combine sever
 
 
 ## Architecture
-! [iiANET Architectural Components] (https://drive.google.com/file/d/14nbSpkvE1vDL8ZHRGEemjGWg8SWOnLKs/view?usp=sharing)
+![iiANET Architectural Components] (https://drive.google.com/file/d/14nbSpkvE1vDL8ZHRGEemjGWg8SWOnLKs/view?usp=sharing)
